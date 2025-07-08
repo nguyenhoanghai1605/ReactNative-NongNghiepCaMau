@@ -28,6 +28,7 @@ class DanhSach extends Component
     };
     componentDidMount = () =>{
         new Promise((resolves,reject) => {
+          // Api 
             this.getDataJson("http://172.29.14.66:81/api/BaoCaoSoNongNghiep/DocDanhSachTheoNam",
              {
                 TokenNguoiDung:"XSIu6g\/L1Cp5sbXkKVkeC7TQQ8HkYmVnzTcG5PEIZp9Ke5+TEcc0ad2VsVBs6YJaXjB1OOkIfVk=",
