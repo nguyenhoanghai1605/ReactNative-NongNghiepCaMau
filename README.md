@@ -12,7 +12,7 @@
 ![image](https://github.com/user-attachments/assets/024c8e55-c2a5-48c2-9eb3-0b6d44886d74)
 ![image](https://github.com/user-attachments/assets/8ec11764-a066-480a-a021-9187a10035b7)
 
-## Author
+## Author dev
 Co-authored-by: Devapro235 
 Co-authored-by: LucasDev89
 Co-authored-by: JohnnyJee
