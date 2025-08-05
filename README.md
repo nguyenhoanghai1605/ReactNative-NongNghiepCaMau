@@ -1,4 +1,4 @@
-## Theme website:
+## Theme website
 ![image](https://github.com/user-attachments/assets/d3be734f-2b6a-4a59-8540-59daf94079e6)
 ![image](https://github.com/user-attachments/assets/9976e9a9-3e84-4b10-9799-be9371bd4caa)
 
